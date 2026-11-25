@@ -1,0 +1,11 @@
+.DS_Store
+*.ppt
+*.pptx
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.sra
+*.sam
+*.bam
+*.cram

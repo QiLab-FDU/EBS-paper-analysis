@@ -1,0 +1,2 @@
+# Call peaks from paired-end treatment reads using IgG as the control.
+macs3 callpeak -t ../bam/sample-1_final_clean.bam ../bam/sample_final_clean.bam -c ../bam/IgG_final_clean.bam  -f BAMPE -g 142481245 -n sample -q 0.01 --keep-dup all --SPMR

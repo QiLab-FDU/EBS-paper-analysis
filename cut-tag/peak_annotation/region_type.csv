@@ -1,0 +1,11 @@
+type,chr_ref,start_ref,end_ref
+centromeric,Chr1,14189619,17781818
+centromeric,Chr2,8404717,12038746
+centromeric,Chr3,13538464,16979273
+centromeric,Chr4,8109510,11354181
+centromeric,Chr5,12349536,15487525
+pericentromeric,Chr1,13050000,19050000
+pericentromeric,Chr2,7300000,14600000
+pericentromeric,Chr3,11200000,18500000
+pericentromeric,Chr4,5600000,12750000
+pericentromeric,Chr5,10150000,17200000
